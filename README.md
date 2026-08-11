@@ -26,6 +26,7 @@ These templates are deliberately source-led: they help a team agree on what the 
 13. [Release-notes product-education brief](./release-notes-product-education-brief.md) — explain what changed, who is affected and what to do next.
 14. [Executive-report video brief](./executive-report-video-brief.md) — translate an executive report into a decision-ready narrative.
 15. [SOP-to-training-video review checklist](./sop-training-video-review-checklist.md) — prepare the source, sequence, exceptions, reviewer, and update trigger.
+16. [PPT and PDF video decision guide](./ppt-pdf-video-decision-guide.md) — choose native export, screen recording, narrated slides, or a viewer-led explainer before production starts.
 
 ## How to use this pack
 
@@ -36,6 +37,11 @@ These templates are deliberately source-led: they help a team agree on what the 
 5. Re-check the artifact when the source, policy, product, or process changes.
 
 An [illustrative IT-triage walkthrough](https://kpainter.ai/examples/it-incident-triage-video) shows one way to make a role, decision, evidence, and handoff visible. It is a communication example, not a universal incident procedure.
+
+## Source-specific decision guides
+
+- For a PowerPoint deck, use the [PPT to video decision guide](https://kpainter.ai/ppt-to-video) when deciding whether the audience needs the existing slide timing, a live demo, or a new explanation.
+- For a report, handbook, or paper, use the [PDF to video decision guide](https://kpainter.ai/pdf-to-video) when deciding whether the key evidence should stay in a narrated-slide format or become a focused explainer.
 
 ## Attribution and scope
 
